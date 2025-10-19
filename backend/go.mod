@@ -1,4 +1,4 @@
-module DuitKito
+module DuitKito/backend
 
 go 1.25.2
 
