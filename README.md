@@ -19,7 +19,7 @@ DuitKito adalah aplikasi pencatat keuangan yang membantu Anda memantau pemasukan
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/username/duitkito.git
+   git clone https://github.com/username/DuitKito.git
    ```
 2. Konfigurasi database PostgreSQL di file `.env`.
 3. Jalankan backend:
